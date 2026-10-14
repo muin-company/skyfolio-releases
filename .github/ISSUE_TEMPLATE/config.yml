@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 메일로 보내기 · Email instead
+    url: mailto:skyfolio@muin.company
+    about: GitHub 계정이 없거나 비공개로 보내고 싶을 때 · No GitHub account, or private
+  - name: 홈페이지 · Website
+    url: https://skyfolio.space
+    about: 데모, 다운로드, 지원 · Demo, downloads, support

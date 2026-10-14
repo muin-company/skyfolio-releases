@@ -1,0 +1,66 @@
+name: 버그 신고 · Bug report
+description: 앱이 잘못 동작했을 때 · Something in the app did not work
+title: "[버그] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        사진 원본이나 위치 정보가 든 파일은 올리지 마세요. 화면 스크린샷이면 충분합니다.
+        Please do not attach original photos or files with location data. A screenshot is enough.
+  - type: textarea
+    id: what
+    attributes:
+      label: 무슨 일이 있었나요? · What happened?
+      description: 기대한 것과 실제로 일어난 것 · What you expected and what happened instead
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 순서 · Steps to reproduce
+      placeholder: |
+        1. 갤러리에서 …
+        2. …
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 앱 버전 · App version
+      description: 설정 화면 아래에 있습니다 · Shown at the bottom of Settings
+      placeholder: "0.1.221"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 기기 · Device
+      options:
+        - iPhone
+        - iPad
+        - Mac
+        - Windows
+        - Linux
+        - Android
+        - 웹 데모 · Web demo
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: 기종과 OS 버전 · Model and OS version
+      placeholder: "iPhone 15 Pro · iOS 26.0 / MacBook Air M4 · macOS 27.0"
+  - type: dropdown
+    id: source
+    attributes:
+      label: 사진은 어디서 왔나요? · Where do the photos come from?
+      options:
+        - 데모 팩 · Demo pack
+        - 내 컴퓨터(데스크톱 앱) · My computer (desktop app)
+        - zip 파일 · zip file
+        - 아직 사진 없음 · No photos yet
+  - type: textarea
+    id: more
+    attributes:
+      label: 스크린샷·그 밖의 것 · Screenshot and anything else
