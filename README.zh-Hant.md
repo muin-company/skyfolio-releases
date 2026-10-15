@@ -1,4 +1,4 @@
-[English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-Hans.md) · **繁體中文**
+[English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh-Hans.md) · **繁體中文**
 
 > **這裡沒有原始碼。** Skyfolio 是閉源 App。本儲存庫只用於**下載**（Releases 標籤）與**錯誤回報 / 功能需求**（Issues 標籤）。
 

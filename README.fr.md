@@ -1,4 +1,4 @@
-[English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · **Français** · [Italiano](README.it.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md)
+[English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · **Français** · [Italiano](README.it.md) · [Português](README.pt.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md)
 
 > **Pas de code source ici.** Skyfolio est une app à code fermé. Ce dépôt n’existe que pour les **téléchargements** (onglet Releases) et les **rapports de bugs / demandes de fonctions** (onglet Issues).
 
