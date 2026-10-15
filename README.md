@@ -1,9 +1,12 @@
+> **이 저장소에는 소스 코드가 없습니다.** Skyfolio는 소스 비공개 앱이며, 이 저장소는 **설치 파일 배포(Releases 탭)**와 **버그 신고·기능 요청(Issues 탭)**을 위한 곳입니다.
+> **No source code here.** Skyfolio is closed-source; this repository exists only for **downloads (Releases tab)** and **bug reports / feature requests (Issues tab)**.
+
 # Skyfolio — releases & feedback
 
 **Skyfolio** keeps your astrophotos on your own device: gallery, observing journal, sky chart and catalog, with no account, no ads and no server.
 Website: https://skyfolio.space · Demo: https://skyfolio.space/demo/ · Support: skyfolio@muin.company
 
-This repository holds the **downloads** (Releases) and the **issue tracker**. The source code lives in a private repository.
+This repository holds the **downloads** (Releases tab on the right) and the **issue tracker**. The source code lives in a private repository and is not published here.
 
 ## Download
 - **Mac** (Apple silicon): `.dmg` from the latest release
@@ -25,7 +28,7 @@ This repository holds the **downloads** (Releases) and the **issue tracker**. Th
 **Skyfolio**는 천체사진을 내 기기 안에만 두는 앱입니다. 갤러리·관측일지·성도·도감이 있고 계정, 광고, 서버가 없습니다.
 홈페이지: https://skyfolio.space · 데모: https://skyfolio.space/demo/ · 지원: skyfolio@muin.company
 
-이 저장소는 **다운로드**(Releases)와 **이슈 트래커**를 위한 곳입니다. 소스 코드는 비공개 저장소에 있습니다.
+이 저장소는 **다운로드**(오른쪽 Releases 탭)와 **이슈 트래커**를 위한 곳입니다. 소스 코드는 비공개 저장소에 있으며 여기에 올라오지 않습니다.
 
 ## 받기
 - **Mac**(Apple 실리콘): 최신 릴리스의 `.dmg`
