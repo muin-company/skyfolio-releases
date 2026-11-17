@@ -9,12 +9,16 @@ Site : https://skyfolio.space · Démo : https://skyfolio.space/demo/ · Assista
 
 ## Télécharger
 - **Mac** (Apple Silicon) : `.dmg` de la dernière release, signé et notarisé
-- **Windows** : installateur `.exe` (pas encore signé — si SmartScreen avertit, « Informations complémentaires » → « Exécuter quand même »)
-- **Linux** : `.AppImage` ou `.deb`
+- **Windows** : installateur `.exe`, `x64` pour la plupart des PC, `arm64` pour Windows on ARM (pas encore signé — si SmartScreen avertit, « Informations complémentaires » → « Exécuter quand même »)
+- **Linux** : `.AppImage` ou `.deb`, x64 et ARM64
 - **Android** : `.apk` en attendant la fiche Google Play
 - **iPhone / iPad** : App Store (en préparation)
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
+
+Les apps Mac et Windows et l’AppImage Linux vous préviennent quand une nouvelle version sort.
+
+Pour tirer des images de vos poses brutes, il faut Siril (gratuit) ou PixInsight sur l’ordinateur. L’Aide de l’app indique quoi installer.
 
 ## Retours
 - **Rapport de bug / demande de fonction** : ouvrez une issue avec l’un des formulaires — https://github.com/muin-company/skyfolio-releases/issues/new/choose

@@ -9,12 +9,16 @@
 
 ## 下載
 - **Mac**（Apple 晶片）: 最新發布中的 `.dmg`，已簽署並公證
-- **Windows**: 安裝程式 `.exe`（尚未簽署 — 若 SmartScreen 警告，點「其他資訊」→「仍要執行」）
-- **Linux**: `.AppImage` 或 `.deb`
+- **Windows**: 安裝程式 `.exe`，大多數電腦用 `x64`，Windows on ARM 用 `arm64`（尚未簽署 — 若 SmartScreen 警告，點「其他資訊」→「仍要執行」）
+- **Linux**: `.AppImage` 或 `.deb`，x64 與 ARM64
 - **Android**: 在上架 Google Play 之前使用 `.apk`
 - **iPhone / iPad**: App Store（準備中）
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
+
+有新版本時，Mac 和 Windows 應用程式以及 Linux 的 AppImage 會通知你。
+
+用拍攝的原始影格製作照片，電腦上需要 Siril（免費）或 PixInsight。要安裝什麼，請看應用程式裡的說明。
 
 ## 意見回饋
 - **錯誤回報 · 功能需求**: 選擇表單提交 Issue — https://github.com/muin-company/skyfolio-releases/issues/new/choose

@@ -9,12 +9,16 @@
 
 ## 받기
 - **Mac**(Apple 실리콘): 최신 릴리스의 `.dmg`, 서명·공증됨
-- **Windows**: 설치 파일 `.exe`(아직 서명하지 않음 — SmartScreen 경고가 뜨면 추가 정보 → 실행)
-- **Linux**: `.AppImage` 또는 `.deb`
+- **Windows**: 설치 파일 `.exe`, 대부분의 PC는 `x64`, Windows on ARM은 `arm64`(아직 서명하지 않음 — SmartScreen 경고가 뜨면 추가 정보 → 실행)
+- **Linux**: `.AppImage` 또는 `.deb`, x64와 ARM64
 - **Android**: Google Play에 올라가기 전까지는 `.apk`
 - **iPhone / iPad**: App Store(준비 중)
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
+
+새 버전이 나오면 Mac과 Windows 앱, Linux의 AppImage가 알려 줍니다.
+
+찍은 원본으로 사진을 만들려면 컴퓨터에 Siril(무료)이나 PixInsight가 있어야 합니다. 무엇을 받으면 되는지는 앱의 도움말에 있습니다.
 
 ## 피드백
 - **버그 신고 · 기능 요청**: 양식을 골라 이슈로 — https://github.com/muin-company/skyfolio-releases/issues/new/choose

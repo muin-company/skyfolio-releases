@@ -9,12 +9,16 @@ Web: https://skyfolio.space · Demo: https://skyfolio.space/demo/ · Soporte: sk
 
 ## Descargar
 - **Mac** (Apple silicon): `.dmg` de la última release, firmado y notarizado
-- **Windows**: instalador `.exe` (aún sin firmar; si SmartScreen avisa, «Más información» → «Ejecutar de todas formas»)
-- **Linux**: `.AppImage` o `.deb`
+- **Windows**: instalador `.exe`, `x64` para la mayoría de los PC, `arm64` para Windows on ARM (aún sin firmar; si SmartScreen avisa, «Más información» → «Ejecutar de todas formas»)
+- **Linux**: `.AppImage` o `.deb`, x64 y ARM64
 - **Android**: `.apk` hasta que se abra la ficha de Google Play
 - **iPhone / iPad**: App Store (en preparación)
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
+
+Las apps de Mac y Windows y el AppImage de Linux te avisan cuando sale una versión nueva.
+
+Para convertir las tomas en bruto en fotos necesitas Siril (gratis) o PixInsight en el ordenador. La Ayuda de la app dice qué instalar.
 
 ## Comentarios
 - **Informe de error / petición**: abre un issue con uno de los formularios — https://github.com/muin-company/skyfolio-releases/issues/new/choose

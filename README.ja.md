@@ -9,12 +9,16 @@
 
 ## ダウンロード
 - **Mac**（Apple シリコン）: 最新リリースの `.dmg`、署名・公証済み
-- **Windows**: インストーラー `.exe`（まだ署名していません — SmartScreen の警告が出たら「詳細情報」→「実行」）
-- **Linux**: `.AppImage` または `.deb`
+- **Windows**: インストーラー `.exe`。ほとんどの PC は `x64`、Windows on ARM は `arm64`（まだ署名していません — SmartScreen の警告が出たら「詳細情報」→「実行」）
+- **Linux**: `.AppImage` または `.deb`、x64 と ARM64
 - **Android**: Google Play で公開されるまでは `.apk`
 - **iPhone / iPad**: App Store（準備中）
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
+
+新しいバージョンが出ると、Mac と Windows のアプリ、Linux の AppImage が知らせます。
+
+撮った元データから写真を仕上げるには、コンピューターに Siril（無料）か PixInsight が必要です。何を入れればよいかはアプリのヘルプにあります。
 
 ## フィードバック
 - **不具合報告・機能要望**: フォームを選んで Issue を作成 — https://github.com/muin-company/skyfolio-releases/issues/new/choose

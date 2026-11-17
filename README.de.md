@@ -9,12 +9,16 @@ Website: https://skyfolio.space · Demo: https://skyfolio.space/demo/ · Support
 
 ## Download
 - **Mac** (Apple Silicon): `.dmg` aus dem neuesten Release, signiert und notarisiert
-- **Windows**: Installer `.exe` (noch nicht signiert — warnt SmartScreen, „Weitere Informationen“ → „Trotzdem ausführen“)
-- **Linux**: `.AppImage` oder `.deb`
+- **Windows**: Installer `.exe`, `x64` für die meisten PCs, `arm64` für Windows on ARM (noch nicht signiert — warnt SmartScreen, „Weitere Informationen“ → „Trotzdem ausführen“)
+- **Linux**: `.AppImage` oder `.deb`, x64 und ARM64
 - **Android**: `.apk`, bis der Google-Play-Eintrag offen ist
 - **iPhone / iPad**: App Store (in Vorbereitung)
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
+
+Die Mac- und die Windows-App und das Linux-AppImage melden sich, wenn eine neue Version da ist.
+
+Um aus Rohaufnahmen Bilder zu machen, brauchst du Siril (kostenlos) oder PixInsight auf dem Computer. Was du dafür holen musst, steht in der Hilfe der App.
 
 ## Feedback
 - **Fehlermeldung / Funktionswunsch**: Issue mit einem der Formulare erstellen — https://github.com/muin-company/skyfolio-releases/issues/new/choose
