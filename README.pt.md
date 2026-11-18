@@ -11,7 +11,7 @@ Site: https://skyfolio.space · Demo: https://skyfolio.space/demo/ · Suporte: s
 - **Mac** (Apple silicon): `.dmg` da release mais recente, assinado e notarizado
 - **Windows**: instalador `.exe`, `x64` para a maioria dos PCs, `arm64` para Windows on ARM (ainda sem assinatura — se o SmartScreen avisar, “Mais informações” → “Executar assim mesmo”)
 - **Linux**: `.AppImage` ou `.deb`, x64 e ARM64
-- **Android**: `.apk` até a página do Google Play abrir
+- **Android**: teste fechado no Google Play (https://play.google.com/apps/testing/company.muin.skyfolio); o e-mail da conta Google precisa estar na lista de testers: escreva para skyfolio@muin.company
 - **iPhone / iPad**: App Store (em preparação)
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest

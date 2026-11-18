@@ -11,7 +11,7 @@
 - **Mac**（Apple 芯片）: 最新发布中的 `.dmg`，已签名并公证
 - **Windows**: 安装程序 `.exe`，大多数电脑用 `x64`，Windows on ARM 用 `arm64`（尚未签名 — 若 SmartScreen 警告，点"更多信息"→"仍要运行"）
 - **Linux**: `.AppImage` 或 `.deb`，x64 和 ARM64
-- **Android**: 在上架 Google Play 之前使用 `.apk`
+- **Android**: Google Play 封闭测试（https://play.google.com/apps/testing/company.muin.skyfolio）。Google 账号邮箱需在测试人员名单中，请写信至 skyfolio@muin.company
 - **iPhone / iPad**: App Store（准备中）
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
