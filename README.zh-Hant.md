@@ -12,7 +12,7 @@
 - **Windows**: 安裝程式 `.exe`，大多數電腦用 `x64`，Windows on ARM 用 `arm64`（尚未簽署 — 若 SmartScreen 警告，點「其他資訊」→「仍要執行」）
 - **Linux**: `.AppImage` 或 `.deb`，x64 與 ARM64
 - **Android**: Google Play 封閉測試（https://play.google.com/apps/testing/company.muin.skyfolio）。Google 帳號電子郵件需在測試人員名單中，請寫信至 skyfolio@muin.company
-- **iPhone / iPad**: App Store（準備中）
+- **iPhone / iPad**: App Store 上的「Skyfolio Astro」（https://apps.apple.com/app/id6822787821）
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
 

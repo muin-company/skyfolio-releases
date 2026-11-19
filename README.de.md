@@ -12,7 +12,7 @@ Website: https://skyfolio.space · Demo: https://skyfolio.space/demo/ · Support
 - **Windows**: Installer `.exe`, `x64` für die meisten PCs, `arm64` für Windows on ARM (noch nicht signiert — warnt SmartScreen, „Weitere Informationen“ → „Trotzdem ausführen“)
 - **Linux**: `.AppImage` oder `.deb`, x64 und ARM64
 - **Android**: geschlossener Test bei Google Play (https://play.google.com/apps/testing/company.muin.skyfolio); die E-Mail des Google-Kontos muss auf der Testerliste stehen: schreib an skyfolio@muin.company
-- **iPhone / iPad**: App Store (in Vorbereitung)
+- **iPhone / iPad**: „Skyfolio Astro“ im App Store (https://apps.apple.com/app/id6822787821)
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
 

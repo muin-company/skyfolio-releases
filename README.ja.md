@@ -12,7 +12,7 @@
 - **Windows**: インストーラー `.exe`。ほとんどの PC は `x64`、Windows on ARM は `arm64`（まだ署名していません — SmartScreen の警告が出たら「詳細情報」→「実行」）
 - **Linux**: `.AppImage` または `.deb`、x64 と ARM64
 - **Android**: Google Play のクローズドテスト（https://play.google.com/apps/testing/company.muin.skyfolio）。Google アカウントのメールがテスター一覧に必要です。skyfolio@muin.company までお知らせください
-- **iPhone / iPad**: App Store（準備中）
+- **iPhone / iPad**: App Store の「Skyfolio Astro」（https://apps.apple.com/app/id6822787821）
 
 → https://github.com/muin-company/skyfolio-releases/releases/latest
 
